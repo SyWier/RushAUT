@@ -1,0 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=Schematic.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\MainPanel\MainPanel.PrjPcb
+Record=SubProject|SourceDocument=Schematic.MbsDoc|ProjectPath=..\MainPanel\MainPanel.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Schematic.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\Oled\Oled.PrjPcb
+Record=SubProject|SourceDocument=Schematic.MbsDoc|ProjectPath=..\Oled\Oled.PrjPcb

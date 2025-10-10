@@ -1,0 +1,3 @@
+harness_adc_cs=/CS2,/CS1,/CS3,/CS4
+harness_line_inf=Line_LED_LE,Line_LED_/OE,Line_INF_LE,Line_INF_/OE
+harness_spi=MOSI,MISO,SCK
